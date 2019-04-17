@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindTransportAny</string>
+    <string name="btnUpd">Обновить базу</string>
+    <string name="time">Time</string>
+</resources>
